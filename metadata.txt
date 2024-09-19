@@ -1,0 +1,14 @@
+[general]
+name=LayerReveal
+description=Un complemento para revelar capas interactivamente usando máscaras.
+version=1.0.0
+author=TuNombre
+email=tuemail@ejemplo.com
+qgisMinimumVersion=3.0
+category=Raster
+icon=icon.png  # Si tienes ícono, asegúrate que esta línea apunte a un archivo válido
+experimental=False
+deprecated=False
+
+[about]
+long_description=Este plugin permite a los usuarios revelar capas inferiores de forma interactiva mientras mueven el cursor sobre el lienzo del mapa.
